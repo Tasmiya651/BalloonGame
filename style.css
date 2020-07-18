@@ -1,5 +1,5 @@
 body{
-  background-image:url(cake.jpg)
+  background-image: url('file:///C:\Users\Tasmiya\Desktop\ballon game\cake.jpg');
 }
 .inflatable{
   height:100px;
